@@ -1,0 +1,13 @@
+{
+  "name": "Momentum",
+  "short_name": "Momentum",
+  "description": "A premium habit, goal & focus tracker",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#0a0a0f",
+  "theme_color": "#0a84ff",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}
